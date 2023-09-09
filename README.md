@@ -1,6 +1,6 @@
 - Hello! I’m Chris
-- I’m interested in developing IoT scripts to help the emerging field progress and flourish.
-- I’m currently learning more about data mining and IoT security.
+- I’m interested in developing new software to help technology evolve to its fullest potential.
+- I’m currently working in Aerospace Engineering
 
 
 <!---
